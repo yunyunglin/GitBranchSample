@@ -10,7 +10,6 @@ public class MainApp {
 		System.out.println(cMath.add(1, 2));
 	}
 	
-
 }
 
 class Math{
